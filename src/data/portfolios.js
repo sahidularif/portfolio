@@ -34,7 +34,7 @@ export const portfolios = {
     {
       type: "featured",
       name: "News Portal",
-      image: 'https://i.ibb.co/WntGCgK/newsportal.png',
+      image: 'https://i.ibb.co/XCqWvsx/newsportal.png',
       description:
         "Built a Mern stack news portal that's provide world class hot news.",
       demo: "https://newsportal24.netlify.app/",
@@ -44,7 +44,7 @@ export const portfolios = {
     {
       type: "featured",
       name: "Urban rider",
-      image: 'https://i.ibb.co/TMK4XvZ/urbanrider.png',
+      image: 'https://i.ibb.co/mrn1PBx/urbanrider.png',
       description:
         "A MERN-Stack web app, where user can hire taxi or cab to going destination",
       demo: "https://urban-rider-44603.web.app/",
