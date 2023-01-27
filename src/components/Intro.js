@@ -25,7 +25,7 @@ const Intro = () => {
 
             <div className="action">
               <Button
-                link="https://github.com/sahidularif/arif.me/blob/main/src/data/file/MyResume.pdf"
+                link="https://docs.google.com/document/d/1Syb4FmNENOLwgEisymDcg2M3ZA7YY2wmFfL_pOlasDM/edit?usp=sharing"
                 target="__blank"
                 bgColor="#00cf5d"
                 title="Get Resume"
