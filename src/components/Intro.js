@@ -21,11 +21,11 @@ const Intro = () => {
               repeat={Infinity}
             />
             <h1>Sahidul Arif</h1>
-            <h3>Web developer</h3><br />
+            <h3>Full-Stack Web Developer</h3><br />
 
             <div className="action">
               <Button
-                link="https://docs.google.com/document/d/1Syb4FmNENOLwgEisymDcg2M3ZA7YY2wmFfL_pOlasDM/edit?usp=sharing"
+                link="https://drive.google.com/file/d/1VkVozo8USeeZ4QKlafe2FUf4rVTKJAIc/view?usp=sharing"
                 target="__blank"
                 bgColor="#00cf5d"
                 title="Get Resume"
