@@ -2,7 +2,7 @@ import React from "react"
 
 import { Container, Title, Button } from "./common"
 
-import profile from "../assets/image/profile.jpg"
+import profileImg from "../assets/image/profile.jpg"
 
 import "./about.css"
 
@@ -29,7 +29,7 @@ const About = () => {
           </div>
           <div className="about-image">
             <div className="image">
-              <img alt="profile" src={profile} />
+              <img alt="profile" src={profileImg} />
             </div>
           </div>
         </div>
